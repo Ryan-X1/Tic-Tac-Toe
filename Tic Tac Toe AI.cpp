@@ -1,6 +1,6 @@
 #include<iostream>
 #include<stdlib.h>
-#include<C:\Users\Ryan\Desktop\Game\Tic Tac Toe\Tic Tac Toe.h>
+#include "Tic Tac Toe.h"
 using namespace std;
 
 void game::display()
