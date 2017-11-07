@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1454399321 source:c:\users\ryan\desktop\game\tic tac toe\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<C:\Users\Ryan\Desktop\Game\Tic Tac Toe\Tic Tac Toe.h>
+
+1454757551 source:c:\users\ryan\desktop\game\tic tac toe\tic tac toe ai.cpp
+	<iostream>
+	<stdlib.h>
+	<C:\Users\Ryan\Desktop\Game\Tic Tac Toe\Tic Tac Toe.h>
+
+1454399321 source:f:\desktop\game\tic tac toe\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<C:\Users\Ryan\Desktop\Game\Tic Tac Toe\Tic Tac Toe.h>
+
